@@ -1,5 +1,5 @@
 # ReadMe
-######Mingzhi Yu, MIT39@pitt.edu, 2016-1-24
+######Mingzhi Yu, 2016-1-24
 
 
 ## Overview
